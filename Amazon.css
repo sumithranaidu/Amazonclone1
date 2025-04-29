@@ -1315,15 +1315,15 @@ padding-top: 25px;
     margin-left: 4px;
 }
 .card-product-container{
-    width: 69rem;
-    margin-left: -4px;
+    width:79rem;
+    margin-left:-24px;
 }
 .delet{
     display: none;
 }
 .card-product-slider-container{
-    width: 64rem;
-    margin-left: 29px;
+    width: 70rem;
+    margin-left:6px;
 }
 #slider6{
     width: 23rem;
@@ -1333,19 +1333,19 @@ padding-top: 25px;
     width: 51rem;
 }
 .slider-lasst-product{
-    width: 70rem;
+    width: 72rem;
     margin-left: -4px;
 }
 .footpaner1{
-    width: 71rem;
+    width: 73rem;
 }
 .footpaner2{
-    width: 71rem;
+    width: 73rem;
 }
 .footpaner3{
-    width: 71rem;
+    width: 73rem;
 }
 .footer4{
-    width: 71rem;
+    width: 73rem;
 }
 }
